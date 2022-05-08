@@ -1,0 +1,9 @@
+{
+	"ip":"YoNdHakTahu.aternos.me",
+	"port": "58175",
+	"name": "Aku ADAlah Pesuru Ulum",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
